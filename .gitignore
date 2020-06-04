@@ -1,0 +1,6 @@
+mrcnn/__pycache__/*
+*.jpg
+*.png
+balloon/train
+balloon/val
+*.json
