@@ -10,7 +10,7 @@ Steps:
 2. `docker build -t mrcnn .`
 3. `docker run -it mrcnn /bin/bash`
 4. Make sure you cd into the correct directory; 'samples/balloon'
-5. `python3 balloon.py train --dataset=/datasets/balloon --weights=coco`
+5. `python3 balloon.py train --dataset=/maskrcnn/datasets/balloon --weights=coco`
 (untested up to this point)
 
 ### Labelling Images
